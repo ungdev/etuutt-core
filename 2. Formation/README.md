@@ -12,9 +12,17 @@
 * [Introduction aux API](https://la-cascade.io/api-une-introduction/)
 * Symfony : [6 étapes pour comprendre comment Symfony fonctionne](https://symfony.com/doc/current/setup.html)
 
+* Exemples de projets Symfony 5 :
+    *  Une appli de sondage connectée au site etu : https://github.com/larueli/kimanj
+    * Une appli de gestion de stock : https://github.com/larueli/stock
+
 # Front
 
 * React :
     * Le [tutoriel](https://fr.reactjs.org/tutorial/tutorial.html)
     * La [doc](https://fr.reactjs.org/docs/getting-started.html)
 * Flexbox : http://flexboxfroggy.com/#fr
+
+* Exemples de projets ReactJS :
+    * Borne style McDo pour l'UTT Arena : https://github.com/ungdev/UA-bouffe-front
+    * Front de l'UTT Arena : https://github.com/ungdev/UA-front
