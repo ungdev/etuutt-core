@@ -4,6 +4,11 @@
 
 Vous voulez faire du dev pour le site etu, mais vous ne savez pas par où commencer ? **Vous êtes au bon endroit !**
 
+
+## Organisation
+
+Pour comprendre le projet, vous pouvez regarder `3. Organisation`
+
 ## Au secours ! Pour moi, PHP, Git, React, c'est du chinois !
 
 Pas de panique. Commence par configurer ton poste (`1. Formation`) puis va dans le dossier `2. Formation` !

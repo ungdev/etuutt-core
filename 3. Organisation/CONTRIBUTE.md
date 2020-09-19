@@ -7,7 +7,7 @@
 be sure to start from `develop` branch :
 
 ```bash
-$ git checkout dev
+$ git checkout develop
 ```
 
 Than, create the branch :
