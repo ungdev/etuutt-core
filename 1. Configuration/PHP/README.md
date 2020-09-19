@@ -9,7 +9,9 @@
 
 ## Installer PHP
 
-* Sur Linux : `sudo apt install php7.4 php7.4-pdo_mysql php7.4-mbstring`
+* Sur Linux :
+    * `sudo add-apt-repository ppa:ondrej/php`
+    * `sudo apt install php7.4 php7.4-pdo_mysql php7.4-mbstring`
 * Sur Windows, cela se fait en plusieurs opérations.
     * Aller sur le [site suivant](https://windows.php.net/download), télécharger le zip (x64 non thread safe), et l'extraire dans un dossier à la racine de votre disque dur (par exemple `C:\dev-tools\php`). Vous devez donc avoir, à terme un fichier `php.exe` dans le dossier `C:\dev-tools\php`.
     * Téléchargez le [fichier suivant](https://curl.haxx.se/ca/cacert.pem) et placez le dans le même dossier que le php.exe
