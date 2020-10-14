@@ -14,7 +14,7 @@ PHP est un language tourné vers le traitement des requêtes web. Il en existe d
 PHP est très puissant, mais encore plus avec Symfony, un ensemble de fonction founissant un cadre de travail (framework) très pratique pour les développeurs.
 
 * [Introduction aux API](https://la-cascade.io/api-une-introduction/)
-* Symfony : doc dans le dossier Symfony
+* Symfony : doc dans le dossier [Symfony](Symfony)
 
 # Front
 

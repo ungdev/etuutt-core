@@ -12,8 +12,8 @@ L'organisation décrite dans le pdf prend forme ainsi :
 
 ### Back
 * API (autorisation, gestion et traitement des requêtes transmises par la gateway)
-    * Repo [ungdev/etuutt-apî](https//github.com/ungdev/etuutt-api)
-    * Repo [ungdev/etuutt-files](https//github.com/ungdev/etuutt-files)
+    * Repo [ungdev/etuutt-api](https://github.com/ungdev/etuutt-api)
+    * Repo [ungdev/etuutt-files](https://github.com/ungdev/etuutt-files)
 * Gateway (authentification des utilisateurs) sur [ungdev/etuutt-gateway](https://github.com/ungdev/etuutt-gateway)
 
 ### Front
