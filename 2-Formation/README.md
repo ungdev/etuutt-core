@@ -9,13 +9,12 @@
 
 # Back
 
+PHP est un language tourné vers le traitement des requêtes web. Il en existe d'autres qui peuvent remplir cette fonction (NodeJS, Python, ...).
+
+PHP est très puissant, mais encore plus avec Symfony, un ensemble de fonction founissant un cadre de travail (framework) très pratique pour les développeurs.
 * Introduction à Composer dans le dossier [Composer](Composer)
 * [Introduction aux API](https://la-cascade.io/api-une-introduction/)
-* Symfony : [6 étapes pour comprendre comment Symfony fonctionne](https://symfony.com/doc/current/setup.html)
-
-* Exemples de projets Symfony 5 :
-    *  Une appli de sondage connectée au site etu : https://github.com/larueli/kimanj
-    * Une appli de gestion de stock : https://github.com/larueli/stock
+* Symfony : doc dans le dossier [Symfony](Symfony)
 
 # Front
 
