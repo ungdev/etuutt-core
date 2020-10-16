@@ -1,5 +1,7 @@
 # Organisation
 
+Merci de lire les [conventions](Conventions.md).
+
 ## Pourquoi
 
 Le fichier pdf de présentation présent dans se dossier vous résumera le pourquoi. Pensez à le télécharger, la visionnieuse github affiche mal les diagrammes.
