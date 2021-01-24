@@ -1,6 +1,6 @@
 # Configuration
 
-Ce dossier contient des instructions afin de préparer ton poste. De manière générale, il est recommandé d'utiliser Linux, la configuration est beaucoup plus simple. Mais sous Windows, ça marche très bien aussi en suivant les étapes indiquées apèrs !
+Ce dossier contient des instructions afin de préparer ton poste. De manière générale, il est recommandé d'utiliser Linux, la configuration est beaucoup plus simple. Mais sous Windows, ça marche très bien aussi en suivant les étapes indiquées après !
 
 ## Créez-vous un compte Github
 

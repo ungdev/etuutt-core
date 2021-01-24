@@ -13,7 +13,7 @@ Plusieurs conventions existent :
 
 ## Pour notre projet
 
-* Nom de classe : PascalCase. Attention, en PHP, une seule classe par fichier, et le fichier doit porter le même nom que la classe suffixé par `.php`.
+* Nom de classe : PascalCase. Attention, en PHP, une seule classe par fichier, et le fichier doit porter le même nom que la classe suffixée par `.php`.
 * Constante globale : SCREAMING_SNAKE_CASE
 * Variables d'environnement : SCREAMING_SNAKE_CASE
 * Nom d'une variable : camelCase
@@ -43,7 +43,7 @@ Les conventions suivies pour le back sont les conventions/ruleset :
 * PSR2
 * Syntaxe courte des tableaux (utiliser les crochets et non `array()`)
 
-Nous suivons aussi la convention [PSR4](https://www.php-fig.org/psr/psr-4/), mais pas besoin de la vérifier sinon le code ne fonctionne pas de base (car indispensable pous Symfony), ce n'est donc plus de l'ordre du linting. Cette convention permet de trouver rapidement où sont les classes en les chargeant automatiquement directement depuis les fichiers sources et en les faisant correspondre automatiquement aux espaces de noms associés.
+Nous suivons aussi la convention [PSR4](https://www.php-fig.org/psr/psr-4/), mais pas besoin de la vérifier sinon le code ne fonctionne pas de base (car indispensable pour Symfony), ce n'est donc plus de l'ordre du linting. Cette convention permet de trouver rapidement où sont les classes en les chargeant automatiquement directement depuis les fichiers sources et en les faisant correspondre automatiquement aux espaces de noms associés.
 
 Une commande à retenir pour adapter automatiquement son code : `php vendor/bin/php-cs-fixer fix src`. On appelle l'exécutable du package (dans le dossier vendor) et on lui dit de réparer le contenu du dossier src. Vous devez le faire avant chaque commit !
 

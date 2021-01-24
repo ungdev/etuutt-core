@@ -44,7 +44,7 @@ This will ask you some questions :
 - what file or what's globally inside the commit
 - a small description of the commit
 
-The 3 first question will determine the title of the commit
+The 3 first questions will determine the title of the commit
 
 - a longer description of the commit (optional)
 - other question you do not have to answer them, just press enter
