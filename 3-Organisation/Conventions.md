@@ -13,7 +13,7 @@ Plusieurs conventions existent :
 
 ## Pour notre projet
 
-* Nom de classe : PascalCase. Attention, en PHP, une seule classe par fichier, et le fichier doit porter le même nom que la classe suffixée par `.php`.
+* Nom de classe : PascalCase. Attention, en PHP, une seule classe par fichier, et le fichier doit porter le même nom que la classe, avec l'extension `.php`.
 * Constante globale : SCREAMING_SNAKE_CASE
 * Variables d'environnement : SCREAMING_SNAKE_CASE
 * Nom d'une variable : camelCase
