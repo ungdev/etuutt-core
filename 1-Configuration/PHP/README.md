@@ -51,7 +51,7 @@ Etape finale !
 
 PHPStorm est un des meilleurs (si ce n'est pas le meilleur) IDE pour développer en PHP. C'est celui que je recommande, mais VSCode avec des extensions peut très bien le faire, tout comme Atom, Vim, ... Chacun son chemin, chacun son destin !
 
-* Se connecter à Jetbrains avec le Github Student Pack [ici](https://www.jetbrains.com/shop/eform/students), indiquez une date approximative de diplomation pour , vous devrez ensuite vous créer un compte.
+* Se connecter à Jetbrains avec le Github Student Pack [ici](https://www.jetbrains.com/shop/eform/students), indiquez une date approximative d'obtention du diplôme. Vous pourrez ensuite vous créer un compte.
 * Téléchargez ensuite la [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app/)
 * Depuis la JetBrains Toolbox, installez ensuite PHPStorm
 * Au premier lancement, Jetbrains va vous demander plusieurs choses, notamment les plugins. Installez bien les plugins :
