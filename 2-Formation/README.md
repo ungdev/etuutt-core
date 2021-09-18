@@ -1,5 +1,7 @@
 # Git
 
+* https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement?archived-source=2342361 
+* https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement?archived-source=2342361
 * https://learngitbranching.js.org/?locale=fr_FR
 * https://try.github.io/
 * Pour ceux qui adorent lire des pavés, le livre Git Pro est vraiment bien :
@@ -26,3 +28,5 @@ PHP est très puissant, mais encore plus avec Symfony, un ensemble de fonction f
 * Exemples de projets ReactJS :
     * Borne style McDo pour l'UTT Arena : https://github.com/ungdev/UA-bouffe-front
     * Front de l'UTT Arena : https://github.com/ungdev/UA-front
+    
+* NextJS : https://nextjs.org/learn/basics/create-nextjs-app?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website
