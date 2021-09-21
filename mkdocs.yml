@@ -1,0 +1,11 @@
+site_name: EtuUTT v8
+theme:
+  name: material
+  locale: fr
+plugins:
+  - search
+  - minify:
+      minify_html: true
+      minify_js: true
+      htmlmin_opts:
+          remove_comments: true

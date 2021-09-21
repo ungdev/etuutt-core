@@ -1,22 +1,11 @@
-# Le site etu
+# etuutt-core
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+Documentation principale ici : https://ungdev.github.io/etuutt-core/
 
-Vous voulez faire du dev pour le site etu, mais vous ne savez pas par où commencer ? **Vous êtes au bon endroit !**
+## Modifier la doc
 
+### Installer les outils
 
-## Organisation
-
-Pour comprendre le projet, vous pouvez regarder [3-Organisation](3-Organisation).
-
-## Au secours ! Pour moi, PHP, Git, React, c'est du chinois !
-
-Pas de panique. Commence par configurer ton poste ([1-Configuration](1-Configuration)) puis va dans le dossier [2-Formation](2-Formation) !
-
-## Je connais déjà un peu (ou j'ai suivi le dossier formation)
-
-Va dans le dossier [1-Configuration](1-Configuration) pour configurer ton poste puis dans le dossier [3-Organisation](3-Organisation) pour comprendre comment le projet est fait.
-
-## Autre
-
-* Le dossier [Repo](Repo) contient des indications pour créer un repository.
+1. Installer python 3
+2. `pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-minify-plugin mkdocs-redirects`
+3. Se placer dans le dossier etuutt-core et `mkdocs serve`
