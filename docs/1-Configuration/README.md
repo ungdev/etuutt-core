@@ -43,4 +43,4 @@ Aller dans le dossier PHP
 
 ## Configuration spécifique au Front
 
-Aller dans le dossier [FRONT](FRONT/)
+Aller dans le dossier FRONT
