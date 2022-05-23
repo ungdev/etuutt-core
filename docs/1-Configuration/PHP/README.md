@@ -2,7 +2,7 @@
 
 ## Installer mariadb
 
-* Sous Linux, installer le paquet `mariadb`
+* Sous Linux, installer le paquet `mariadb-server`
 * Sous Windows, aller sur [ce site](https://downloads.mariadb.org/) et installer la version 10.5 stable, et le fichier winx64.msi.
     * Cochez bien lors de l'installation `Modify root password` et notez le mdp créé (faites en un simple avec juste des chiffres et des lettres, il ne servira que sur votre poste). Décochez bien enable root access from remotes machines.
     * Cochez bien `Install as Service` et `Enable networking`
@@ -11,7 +11,7 @@
 
 * Sur Linux :
     * `sudo add-apt-repository ppa:ondrej/php`
-    * `sudo apt install php7.4 php7.4-pdo_mysql php7.4-mbstring`
+    * `sudo apt install php8.0 php8.0-mysql php8.0-mbstring php8.0-xml`
 * Sur Windows, cela se fait en plusieurs opérations.
     * Aller sur le [site suivant](https://windows.php.net/download), télécharger le zip (x64 non thread safe), et l'extraire dans un dossier à la racine de votre disque dur (par exemple `C:\dev-tools\php`). Vous devez donc avoir, à terme un fichier `php.exe` dans le dossier `C:\dev-tools\php`.
     * Téléchargez le [fichier suivant](https://curl.haxx.se/ca/cacert.pem) et placez le dans le même dossier que le php.exe
@@ -38,11 +38,11 @@
     * Il faut ensuite, dans la barre des tâches, rechercher `path` et ouvrir `Modifier les variables d'environnement`, puis recliquez sur le bouton du bas `Variables d'environnement` puis dans `Variables systèmes`, double cliquer sur la variable `Path` puis cliquer sur `Nouveau` et indiquer `C:\dev-tools\php\` en ajoutant bien le `\` à la fin. Puis valider la saisie en appuyant sur entrée puis en cliquant sur ok.
 
 ## Installer composer
-* Sous linux : avec votre gestionnaire de paquet : `sudo apt install composer`
+* Sous linux : récupérez l'installateur avec `wget getcomposer.org/installer`. Installez composer grâce à ce fichier : `sudo php installer --install-dir /usr/bin --filename composer`. Enfin, vous pouvez supprimer l'installateur, vous ne devriez plus en avoir besoin : `rm -f installer`
 * Sous Windows en utilisant [l'installateur prévu à cet effet](https://getcomposer.org/Composer-Setup.exe).
 
 ## Installer l'exécutable Symfony
-* Linux : `wget https://get.symfony.com/cli/installer -O - | bash && sudo mv symfony /usr/bin/symfony`
+* Linux : `wget https://get.symfony.com/cli/installer -O - | bash && sudo mv symfony /usr/bin/symfony` puis `sudo mv /home/{NOM_LINUX}/.symfony/bin/symfony /usr/local/bin/symfony`. N'oubliez pas de remplacer `{NOM_LINUX}` par le nom de votre linux
 * Windows : allez sur le [site de Symfony](https://symfony.com/download) pour télécharger l'installateur.
 
 ## Installer PHPStorm
